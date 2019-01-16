@@ -108,3 +108,14 @@ Que t'ho passis bé | Que te lo pases bien
 Un moment, si us plau | Un momento, por favor
 Una altra vegade, si us plau | Otra vez, por favor
 Més a poc a poc, si us plau | Más despacio, por favor
+
+## Pronoms Personals
+
+Catalá | Castellá
+--- | ---
+Jo | Yo
+Tu / Vostre | Tu / Usted
+Ell / Ella | El / Ella
+Nosaltres | Nosotros-as
+Vosaltres / Vostes | Vosotros, ustedes
+Ells / Elles | Ellos / Ellas
