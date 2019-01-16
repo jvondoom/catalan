@@ -55,3 +55,21 @@ De que treballes? | De que trabajas?
 **7** (_set_) | **17** (_disset_) | **27** (_vint-i-set_) | **37** (_trenta-set_) | **200** (_dos-cents_)
 **8** (_vuit_) | **18** (_divuit_) | **28** (_vint-i-vuit_) | **38** (_trenta-vuit_) | **1.000** (_mil_)
 **9** (_nou_) | **19** (_dinou_) | **29** (_vint-i-nou_) | **39** (_trenta-nou_) | **1.000.000** (_un milio_)
+
+## Numeros Ordinals
+
+- **1r** (_primer_)
+- **2n** (_segon_)
+- **3r** (_tercer_)
+- **4t** (_quart_)
+- **5e** (_cinque_)
+- **6e** (_sise_)
+- **7e** (_sete_)
+- **8e** (_vuite_)
+- **9e** (_nove_)
+- **10e** (_dese_)
+- **11e** (_onze_)
+- **21e** (_vint-i-une_)
+- **35e** (_trenta-cinque_)
+- **100e** (_cente_)
+- **1000e** (_mile_)
