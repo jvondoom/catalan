@@ -119,3 +119,41 @@ Ell / Ella | El / Ella
 Nosaltres | Nosotros-as
 Vosaltres / Vostes | Vosotros, ustedes
 Ells / Elles | Ellos / Ellas
+
+## Adjecticus | Pronoms Possessius
+
+Catalá | Castellá
+--- | ---
+Meu, meva, meus, meves | mio, mia, mios, mias
+Teu, teva, teus, teves | tuyo, tuya, tuyos, tuyas
+Seu, seva, seus, seves | suyo, suya, suyos, suyas
+Nostre, nostra, nostres | nuestro, nuestra, nuestros-as
+Vostre, vostra, vostres | vuestro, vuestra, vuestros-as
+
+## Pronoms interrogatius
+
+Catalá | Castellá
+--- | ---
+Quant | Cuanto
+Quanta | Cuanta
+Quants | Cuantos
+Quantes | Cuantas
+Quin, Quina, Quins, Quines | Que (_pregunta indirecta_)
+Qui | Quien
+Que | Que
+On | Donde
+Quan | Cuando
+Com | Como
+
+## Articles definits, indefinits
+
+Catalá | Castellá
+--- | ---
+El | El
+La | La 
+Els | Los
+Les | Las
+Un | Un
+Una | Una
+Uns | Unos
+Unes | Unas
