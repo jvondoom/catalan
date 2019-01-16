@@ -73,3 +73,38 @@ De que treballes? | De que trabajas?
 - **35e** (_trenta-cinque_)
 - **100e** (_cente_)
 - **1000e** (_mile_)
+
+## Salutacions i formules de cortesia
+
+Catalá | Castellá
+--- | ---
+Hola | Hola
+Bones! | Buenas!
+Bon dia | Buenos dias
+Bona tarda | Buenas tardes
+Bona nit | Buenas noches
+Adéu | Adios
+Petons! | Besos!
+Una abaçada! | Un abrazo!
+A reveure | Hasta luego
+Que vagi bé! | Que te vaya bien!
+Fins aviat | Hasta pronto
+Fins més tard | Hasta más tarde
+Fins demá | Hasta mañana
+Gracias | Gracias
+Moltes gracias | Muchas gracias
+De res | De nada
+Benvingut | Bienvenido
+Perdoni | Perdona
+Disculpi | Disculpa
+Em sap greu | Lo siento
+Molt de gust | Mucho gusto
+Tant de gust | Tanto gusto
+Amb molt de gust | Con mucho gusto
+Que vagi de gust | Que aproveche
+Bon profit | Buen provecho
+Diverteix-te | Divertete
+Que t'ho passis bé | Que te lo pases bien
+Un moment, si us plau | Un momento, por favor
+Una altra vegade, si us plau | Otra vez, por favor
+Més a poc a poc, si us plau | Más despacio, por favor
