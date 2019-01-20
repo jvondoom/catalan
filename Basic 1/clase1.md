@@ -1,5 +1,7 @@
 # Clase 1
-__Fecha__: 2019/1/12
+__Fecha__: 2019/01/12
+
+Profe: Olga
 
 ## Dialegs
 
@@ -78,36 +80,37 @@ De que treballes? | De que trabajas?
 
 Catalá | Castellá
 --- | ---
-Hola | Hola
-Bones! | Buenas!
-Bon dia | Buenos dias
-Bona tarda | Buenas tardes
-Bona nit | Buenas noches
-Adéu | Adios
-Petons! | Besos!
-Una abaçada! | Un abrazo!
 A reveure | Hasta luego
-Que vagi bé! | Que te vaya bien!
-Fins aviat | Hasta pronto
-Fins més tard | Hasta más tarde
-Fins demá | Hasta mañana
-Gracias | Gracias
-Moltes gracias | Muchas gracias
-De res | De nada
-Benvingut | Bienvenido
-Perdoni | Perdona
-Disculpi | Disculpa
-Em sap greu | Lo siento
-Molt de gust | Mucho gusto
-Tant de gust | Tanto gusto
+Adéu | Adios
 Amb molt de gust | Con mucho gusto
-Que vagi de gust | Que aproveche
+Benvingut | Bienvenido
+Bon dia | Buenos dias
 Bon profit | Buen provecho
+Bona nit | Buenas noches
+Bona tarda | Buenas tardes
+Bones! | Buenas!
+De res | De nada
+Disculpi | Disculpa
 Diverteix-te | Divertete
-Que t'ho passis bé | Que te lo pases bien
-Un moment, si us plau | Un momento, por favor
-Una altra vegade, si us plau | Otra vez, por favor
+Em sap greu | Lo siento
+Fins aviat | Hasta pronto
+Fins demá | Hasta mañana
+Fins més tard | Hasta más tarde
+Gracias | Gracias
+Hola | Hola
+Molt de gust | Mucho gusto
+Moltes gracias | Muchas gracias
 Més a poc a poc, si us plau | Más despacio, por favor
+Perdoni | Perdona
+Petons! | Besos!
+Que t'ho passis bé | Que te lo pases bien
+Que tal esta? | Como estas?
+Que vagi bé! | Que te vaya bien!
+Que vagi de gust | Que aproveche
+Tant de gust | Tanto gusto
+Un moment, si us plau | Un momento, por favor
+Una abaçada! | Un abrazo!
+Una altra vegade, si us plau | Otra vez, por favor
 
 ## Pronoms Personals
 
