@@ -49,7 +49,7 @@ Hom (_Uno, se_) | Ambdós, Ambdues (_Ambos, Ambas_)
 ## Adverbis i locucions adverbiales de lloc
 
 A prop (_Cerca_) | Cap aquí (_Hacia aqui_) | Davant (_Delante_)
---- | ---
+--- | --- | ---
 Lluny (_Lejos_) | Cap alla (_Hacia alla_) | Darrere (_Detras_)
 Al costat (_Al lado_) | A la vora (_Cerca_) | A la dreta (_A la derecha_)
 A ma esquerra (_A mano izquierda_) | On (_Donde_) | A la esquerra (_A la izquierda_)
