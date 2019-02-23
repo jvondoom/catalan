@@ -1,0 +1,4 @@
+## Dia de compres
+
+
+Lo primer he comprat una moto. Per aixo, he anat a Santa Ana, a la botiga (?) de motos y he comprat una Vespa Primavera de color groc. Ja amb la moto, he conduit cap el Caribe. he anat per carretera trenta-dos i quan he arribat a Limon, he continuat cap Puerto Viejo. he buscat una pastisseria perque he tingut moltes ganes de menjar patty. La noia ha cobrat dues en lloc d'un, aixi que m'he menjat un altre. Com no he portat res mes que la moto, he anat a una botiga de roba per comprar una pantaloneta de bany, une tovallola y unes sandalies. Despres he passat unes hores a la platja, pero ha fet un dia molt calent; llavors he tornat a la pastisseria per altra patty y per preguntar on hi ha un mercat. Ahi he comprat unes cerveses. he conduit cap Uvita y he esperat per veure el capvespre aixi. Ja a la nit, he tornat a Puerto Viejo per menjar. M'he assegut a un restaurant y he demanat un Rice and Beans. 
